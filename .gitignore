@@ -1,0 +1,5 @@
+deploy/*
+work/*
+postrun.sh
+.pc
+*-pc
